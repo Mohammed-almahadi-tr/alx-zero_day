@@ -1,1 +1,1 @@
-add ,commit ,push ,pull ,checkout ,--set-upstream ,config ,status
+git add ,git commit ,git push ,git pull ,checkout ,--set-upstream ,config ,status
